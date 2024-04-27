@@ -1,6 +1,6 @@
 #Convertidor_de_Monedas
 
-<h1>**Hola, mi nombre es *Matias* **</h1>
+<h1>Hola, mi nombre es *Matias* </h1>
 
 Este proyecto es una aplicación de consola que permite convertir valores entre diferentes monedas utilizando la API de tasas de cambio de Exchange Rate API.
 
@@ -26,7 +26,7 @@ Conversión de moneda entre las siguientes parejas:
 <h2>Estructura del proyecto</h2>
 El proyecto está organizado en las siguientes clases:
 
-<li>**Principal:** Clase principal que maneja la interacción con el usuario, muestra el menú y llama a los métodos de conversión.</li>
-<li>**ConversorMoneda:** Clase que se encarga de realizar las solicitudes HTTP a la API de tasas de cambio, procesar la respuesta y calcular la conversión de moneda.</li>
-<li>**RespuestaTipoDeCambio:** Clase que representa la estructura de la respuesta JSON de la API de tasas de cambio.</li>
-<li>**Menu:** Clase que contiene la definición del menú de opciones.</li>
+<li>Principal: Clase principal que maneja la interacción con el usuario, muestra el menú y llama a los métodos de conversión.</li>
+<li>ConversorMoneda: Clase que se encarga de realizar las solicitudes HTTP a la API de tasas de cambio, procesar la respuesta y calcular la conversión de moneda.</li>
+<li>RespuestaTipoDeCambio: Clase que representa la estructura de la respuesta JSON de la API de tasas de cambio.</li>
+<li>Menu: Clase que contiene la definición del menú de opciones.</li>
